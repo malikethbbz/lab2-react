@@ -4,7 +4,7 @@ function Saludo() {
 
   return (
     <div>
-      <p>Hola, mi nombre es {nombre} y tengo {edad} años.</p>
+      <p>Mi nombre es {nombre} y tengo {edad} años.</p>
     </div>
   );
 }
